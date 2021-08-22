@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623611691 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 2\source code\assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
